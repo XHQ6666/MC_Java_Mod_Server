@@ -34,7 +34,7 @@ Frp Client 的配置文件，若配置有更新将会通知你更新
 
 Frp 采用 xtcp 方式实现 IPv4 NAT 建立 P2P 连接，无需公网 Server 进行中转流量，发挥最大的网络 I/O 性能，低延迟游戏体验
 
-__But, 对 NAT 类型有要求，至少需要全锥形 NAT ~~(哪家校园网还 NAT4)~~__
+__But! 对 NAT 类型有一定的要求，至少需要全锥型 (Full Cone) NAT ~~(哪家校园网还 NAT4)~~__
 
 ## 连接到 Minecraft Sever
 
