@@ -42,6 +42,8 @@ __如果出现 "open tunnel error" 先别急，一般需要 5~10 秒左右才打
 
 __显示 "nathole prepare success" 说明打洞成功__
 
+![Frp Client Image](https://transfer.v4.xhq666.cn:82/files/frp_img/nathole_success.png)
+
 __点击 "加入服务器" 开始游戏辣__
 
 ![MC Server Info Image](https://transfer.v4.xhq666.cn:82/files/frp_img/delay.png)
