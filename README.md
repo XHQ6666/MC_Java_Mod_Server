@@ -2,7 +2,7 @@
 ___
 ### 下载压缩包后解压 MC_Frp_Client 文件夹
 
-![Frp Client Image](https://transfer.v4.xhq666.cn:82/files/frp_img/files.png)
+![Frp Client Image](files.png)
 
 ### 以下是各个文件用途
 
@@ -44,16 +44,16 @@ __添加服务器__
 
 + 地址填 127.0.0.1:25565 即可
 
-![MC Server Info Image](https://transfer.v4.xhq666.cn:82/files/frp_img/server_info.png)
+![MC Server Info Image](server_info.png)
 
 __如果出现 "open tunnel error" 先别急，一般需要 5~10 秒左右才打洞成功，可以在 MC 服务器列表隔几秒点一次刷新__
 
-![Frp Client Image](https://transfer.v4.xhq666.cn:82/files/frp_img/open_tunnel_error.png)
+![Frp Client Image](open_tunnel_error.png)
 
 __显示 "nathole prepare success" 说明打洞成功__
 
-![Frp Client Image](https://transfer.v4.xhq666.cn:82/files/frp_img/nathole_success.png)
+![Frp Client Image](nathole_success.png)
 
 __点击 "加入服务器" 开始游戏辣__
 
-![MC Server Info Image](https://transfer.v4.xhq666.cn:82/files/frp_img/delay.png)
+![MC Server Info Image](delay.png)
