@@ -38,7 +38,7 @@ __But, 对 NAT 类型有要求，至少需要全锥形 NAT ~~(哪家校园网还
 
 ## 连接到 Minecraft Sever
 
-首先启动我们的 Frp Client ，接着启动 Minecraft
+首先启动我们的 Frp Client (打开 run.bat 或 run.vbs)，接着启动 Minecraft
 
 __添加服务器__
 
