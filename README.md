@@ -13,7 +13,7 @@ Frp Client 可执行文件
 
 Frp Client 的配置文件，若配置有更新将会通知你更新
 
-注意: 在 Github 下载的 Frp Client 不包含这个配置文件，你需要联系 OP 获取
+注意: 在 GitHub 下载的 Frp Client 不包含这个配置文件，你需要联系 OP 获取
 ### run.bat
 
 一键运行 Frp Client 连接到 Minecraft Server (带命令行窗口，可查看 Log 输出)
