@@ -1,6 +1,6 @@
 # Frp Client 使用文档
 
-### [点击转到 Releases 下载](https://github.com/XHQ6666/MC_Server/releases)
+### [点击转到 Releases 下载 Frp Client 和 MOD](https://github.com/XHQ6666/MC_Server/releases)
 
 ### 下载压缩包后解压 MC_Frp_Client 文件夹
 
